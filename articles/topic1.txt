@@ -1,0 +1,1 @@
+27-Mar-2016 — (supposedly can be done with HTML <embed> tag, which makes sense, but I ... How do I load the contents of a text file into a javascript variable? ... You can use a simple HTML element <embed src="file.txt"> it loads the ... innerHTML = allText; } txtFile.open("GET", '/result/client.txt', true); txtFile.send(null);.
